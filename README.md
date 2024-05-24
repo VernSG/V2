@@ -7,16 +7,6 @@
     Byte Per Sec : 250 - 410 = Req : 55k [Verified]<br>
     Thread : 250 - 420 = Req : 50k+ [Verified]<br>
     
-    -= Termux =-
-
-    1. pkg update && pkg upgrade
-    2. pkg install curl
-    3. pkg install python3
-    4. pkg install git
-    6. cd C2
-    7. pip3 install -r requirements.txt
-    8. python3 c2.py
-
     -= Ubuntu =-
 
     1. sudo apt-get update && sudo apt-get updgrade
