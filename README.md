@@ -25,7 +25,7 @@
     4. sudo apt install curl
     5. sudo apt install git
     6. git clone https://github.com/VernSG/V2
-    7. cd C2
+    7. cd V2
     8. pip3 install -r requirements.txt
     9. python3 c2.py
 
@@ -36,8 +36,8 @@
     3. apt install python3
     4. apt install python3-pip
     5. apt install git
-    6. git clone https://github.com/MrSanZz/C2
-    7. cd C2
+    6. git clone https://github.com/VernSG/V2
+    7. cd V2
     8. pip3 install -r requirements.txt
     9. python3 c2.py
 
